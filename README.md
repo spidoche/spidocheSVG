@@ -6,7 +6,7 @@ SpidocheSVG include your svg file right on your html.
 DEMO : http://spidoche.com/spidocheSVG/
 
 ## Why?
-It's keep your code clean and don't break your site on browser that do not support svg (ie8 old android).
+It's keep your code clean and don't break your site on browser that do not support svg (IE8).
 
 ## How?
 Add the required script.
