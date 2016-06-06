@@ -30,7 +30,7 @@ jQuery(function($){
                     });
                 });
             }else{
-                $('body').addClass('.no-svg');
+                $('body').addClass('no-svg');
             }
         },
         is_inline_svg : function(){
