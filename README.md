@@ -6,14 +6,13 @@ SpidocheSVG include your svg file right on your html.
 DEMO : http://spidoche.com/spidocheSVG/
 
 ## Why?
-It's keep your code clean and don't break your site on browser that do not support svg (IE8).
+It's keep your code clean and don't break your site on browser that do not support inline SVG (IE8).
 
 ## How?
 Add the required script.
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/js/spidocheSVG.min.js"></script>
-
 ```
 
 Add the svg url you want to load on a container using the "data-svg" attribute.

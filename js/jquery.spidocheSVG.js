@@ -1,3 +1,15 @@
+/*!
+ * SpidocheSVG - jQuery inline svg loader
+ *
+ * Version    : 1.0
+ * Author     : Spidoche - spidoche.com
+ * Require    : jQuery v1.7.2 or later
+ * IE support : ie8 or later
+ *
+ * Plugin URL : https://github.com/spidoche/spidocheSVG
+ * Demo URL   : http://spidoche.com/spidocheSVG/
+ */
+
 /* global window, document, jQuery */
 jQuery(function($){
     function SpidocheSVG(){
