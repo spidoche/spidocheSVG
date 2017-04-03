@@ -11,6 +11,8 @@
  */
 
 /* global window, document, jQuery */
+var spidochesvg;
+
 jQuery(function($){
     function SpidocheSVG(){
         this.init();
@@ -40,5 +42,5 @@ jQuery(function($){
         }
     };
 
-    new SpidocheSVG();
+    spidochesvg = new SpidocheSVG;
 });
